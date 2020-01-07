@@ -1,7 +1,7 @@
 <h1>Flask Intro</h1>
 
 
-[Lesson Page](https://ds.codeup.com/13-advanced-topics/3.4-intro-to-flask/)
+[*Lesson Page*](https://ds.codeup.com/13-advanced-topics/3.4-intro-to-flask/)
 
 
 <h2 id="exercise">Exercise</h2>

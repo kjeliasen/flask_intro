@@ -1,7 +1,7 @@
 <h1 id="virtual-environments">Virtual Environments</h1>
 
 
-[Lesson Page](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
+[*Lesson Page*](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
 
 
 <p>Virtual environments let us isolate project dependencies, that is, the third

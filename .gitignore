@@ -1,6 +1,7 @@
 env.py
 env/
 testenv/
+*.csv
 .ipynb_checkpoints/
 __pycache__
 .DS_Store

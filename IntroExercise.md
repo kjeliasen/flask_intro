@@ -21,7 +21,7 @@
 <li>Import <code>numpy</code>. You should get an <code>ImportError</code> because we have not yet
    installed <code>numpy</code>. Exit the interactive session.</li>
 <li>Install numpy, and then generate a <code>requirements.txt</code> file.</li>
-<p>*Saved as [requirements_intro.txt](https://github.com/kjeliasen/flask_intro/blob/master/requirements_intro.txt)*</p>
+<p>Saved as [requirements_intro.txt](https://github.com/kjeliasen/flask_intro/blob/master/requirements_intro.txt)</p>
 <li>Add and commit the work that you've done.</li>
 </ol>
           

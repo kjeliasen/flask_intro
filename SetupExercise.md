@@ -1,7 +1,7 @@
 <h1>Virtual Environment Setup</h1>
 
 
-[Lesson Page](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
+[*Lesson Page*](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
 
 
 <h2 id="exercise">Exercise</h2>

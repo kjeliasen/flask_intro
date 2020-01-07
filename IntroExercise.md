@@ -2,13 +2,18 @@
 
 <h2 id="exercise">Exercise</h2>
 <ol>
-<li>Create a folder named <code>flask_intro</code>. In this folder, create a readme file
-   that explains that this project is your repository to practice learning
-   flask.</li>
+<li>Create a directory named <code>flask_intro</code> within your <code>codeup-data-science</code>
+   directory.</li>
+<li>Within <code>flask_intro</code>, create a readme file that explains that this project is
+   your repository to practice learning flask.</li>
 <li>Initialize a git repository inside of <code>flask_intro</code>, then add and commit the
    readme file.</li>
 <li>Create a new repository on github named <code>flask_intro</code>.</li>
-<li>Link your local repository to the one you have created on github and push.</li>
+<li>Link your local repository to the one you have created on github and push
+   your work to github.</li>
+</ol>
+<hr />
+<ol>
 <li>Create a new virtual environment. Be sure to add the virtual environment
    directory to your <code>.gitignore</code>.</li>
 <li>Activate the virtual environment.</li>
@@ -18,3 +23,4 @@
 <li>Install numpy, and then generate a <code>requirements.txt</code> file.</li>
 <li>Add and commit the work that you've done.</li>
 </ol>
+          

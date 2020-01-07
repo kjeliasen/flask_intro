@@ -1,6 +1,6 @@
 <h1>Build Model</h1>
 <br>
-[*Lesson Page*](https://ds.codeup.com/13-advanced-topics/3.3-building-a-model/)
+[Lesson Page](https://ds.codeup.com/13-advanced-topics/3.3-building-a-model/)
 <br>
 <h2 id="exercise">Exercise</h2>
 <ol>

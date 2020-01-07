@@ -1,6 +1,6 @@
 <h1>HTML Templates</h1>
 
-[*Lesson Page*](https://ds.codeup.com/13-advanced-topics/3.5-html-templates/)
+[Lesson Page](https://ds.codeup.com/13-advanced-topics/3.5-html-templates/)
 
 <h2 id="exercise">Exercise</h2>
 <ol>

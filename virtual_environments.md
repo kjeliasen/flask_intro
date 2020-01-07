@@ -1,6 +1,6 @@
 <h1 id="virtual-environments">Virtual Environments</h1>
 <br>
-[*Lesson Page*](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
+[Lesson Page](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
 <br>
 <p>Virtual environments let us isolate project dependencies, that is, the third
 party libraries we use with each project. For example, if one project you are

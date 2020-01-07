@@ -1,7 +1,7 @@
 # Introduction to Flask
 ## Codeup - Bayes Cohort
 
-                <h1 id="virtual-environments">Virtual Environments</h1>
+<h1 id="virtual-environments">Virtual Environments</h1>
 <p>Virtual environments let us isolate project dependencies, that is, the third
 party libraries we use with each project. For example, if one project you are
 working on depends on an older version of pandas, but you want to use the newest

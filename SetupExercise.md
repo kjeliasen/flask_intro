@@ -1,7 +1,9 @@
 <h1>Virtual Environment Setup</h1>
-<br>
+
+
 [Lesson Page](https://ds.codeup.com/13-advanced-topics/3.2-virtual-environments/)
-<br>
+
+
 <h2 id="exercise">Exercise</h2>
 <ol>
 <li>Create a directory named <code>flask_intro</code> within your <code>codeup-data-science</code>

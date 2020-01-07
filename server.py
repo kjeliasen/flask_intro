@@ -17,10 +17,20 @@ def roll_dice():
 @app.route('/roll-dice/<int:ndice>')
 def roll_ndice(ndice):
 
-    rolls = [randint(1,6) for _ in range(int(ndice))]
+    rolls = [str(randint(1,6)) for _ in range(int(ndice))]
+
+    ### return through template
+    return render_template(
+        'roll-dice.html',
+        rolls=rolls,
+        dice=ndice
+    )
+
+    ### original return
     rollstr = ', '.join(rolls)
     output = f'You rolled: {rollstr}'
     return output
+
 
 ###### Zach's Code ######
 ######

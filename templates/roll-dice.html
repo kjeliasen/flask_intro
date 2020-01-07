@@ -7,9 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HEllo, Bayes!</h1>
+    <h1>Rollin'! Rollin'! Rollin'!</h1>
+    <br>
     <p>It's a wonderful morning!</p>
-    <h2>Here's your random numbers:</h2>
+    <br>
+    <h2>Here's your {{ dice }} random numbers:</h2>
     {% for roll in rolls %}
         <p>{{ roll }}</p>
     {% endfor %}

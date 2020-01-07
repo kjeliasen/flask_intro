@@ -1,7 +1,9 @@
 <h1>Flask Intro</h1>
-<br>
+
+
 [Lesson Page](https://ds.codeup.com/13-advanced-topics/3.4-intro-to-flask/)
-<br>
+
+
 <h2 id="exercise">Exercise</h2>
 <ol>
 <li>Create a <code>server.py</code> file. Include a route for <code>/</code> that returns a "Hello,

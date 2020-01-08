@@ -14,3 +14,4 @@ Introductory lesson for Python virtual environments and Flask
 1. [Build Model Exercise](https://github.com/kjeliasen/flask_intro/blob/master/BuildModelExercise.md)
 1. [Flask Intro](https://github.com/kjeliasen/flask_intro/blob/master/FlaskIntro.md)
 1. [HTML Templates](https://github.com/kjeliasen/flask_intro/blob/master/HtmlTemplates.md)
+1. [HTML Forms](https://github.com/kjeliasen/flask_intro/blob/master/HtmlForms.md)

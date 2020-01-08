@@ -1,6 +1,6 @@
-from flask import Flask
-from flask import render_template
+from flask import Flask, render_template, request
 from random import randint
+from model import predict
 
 app = Flask(__name__)
 
@@ -46,10 +46,41 @@ def htmlpage():
 ######
 ###### Zach's Code ######
 
+
 @app.route('/hello/<name>')
 def say_hello(name):
     output = f'Hello, {name}!'
     return output
+
+
+@app.route('/greeting')
+def show_greeting_form():
+    ### return through template
+    return render_template(
+        'greeting.html'
+    )
+
+
+@app.route('/greeting-result', methods=['POST'])
+def show_greeting_result():
+    first_name = request.form['first_name']
+    return render_template(
+        'greeting-result.html',
+        first_name=first_name
+    )
+
+
+@app.route("/predict-spam")
+def show_spam_form():
+    return render_template("predict-spam.html")
+
+
+@app.route("/predict-spam-result", methods=["POST"])
+def show_spam_result():
+    message = request.form["message"]
+    return render_template(
+        "predict-spam-result.html", message=message, prediction=predict(message)
+    )
 
 
 if __name__ == '__main__':
